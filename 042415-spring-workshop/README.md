@@ -1,5 +1,7 @@
 # Ada Developers Academy Spring Workshop
 
+This is the documentation presented in the Spring Workshop. It includes links to all the external resources referenced during the lecture and project portions.
+
 ## How will this work?
 Teams of 4-5 people will work together with a coach on a guided project. The coaches will follow along with the team to ensure everyone is progressing along and stop for discussion points along the way. 
 
@@ -35,7 +37,7 @@ In the Ruby community, we try to focus on the people, not the machines.
 
 ### How to run code in Ruby?
 
-[Syntax](http://docs.railsbridge.org/intro-to-rails/ruby_language)
+Open your terminal, type in `irb` and hit enter. This starts _interactive Ruby_, a program that lets you enter Ruby code and immediately see its output. We will use it to explore Ruby's [syntax](http://docs.railsbridge.org/intro-to-rails/ruby_language).
 
 ## Intro to Rails
 
@@ -45,14 +47,22 @@ Rails [folder structure](http://www.codelearn.org/ruby-on-rails-tutorial/rails-d
 
 [Cheatsheet](http://www.pragtob.info/rails-beginner-cheatsheet/#)
 
-## Why Ruby on Rails?
-
 ## Project
 [Job Board](http://docs.railsbridge.org/job-board/)
 
 Purpose: Create a job board application using guided debugging techniques - play "follow-the-error"
 
 ## Additional Resources
+
+### Lightning Talks
+
+- [Whitney Levis - Imposter Syndrome](https://docs.google.com/presentation/d/17V4qtwcSKhewImw57mjyXNXy2TCwAybntecYDtGoU9w/edit#slide=id.p)
+- [Matt Hink - What To Do When You Don't Know What To Do](mhink-what-to-do-when-you-dont-know-what-to-do.key)
+- [Katie Bosch - ](#)
+- [Rachelle Keblitis - ](#)
+- [Elise Worthy - Seattle Rocks!](#)
+
+
 ### Project
 Everything on the [Add More Things](http://docs.railsbridge.org/job-board/add_more_things) page
 
