@@ -7,6 +7,15 @@ Teams of 4-5 people will work together with a coach on a guided project. The coa
 
 After our time together is coming to a close, we will de-brief what we have learned as well as provide additional recommendations and resources to assist you in taking your projects and learning to the next level.
 
+## Coaches & Instructors
+- [Kari Bancroft](https://twitter.com/karianneban)
+- [Katie Bosch](https://twitter.com/katiespiders)
+- [Jeremy Flores](https://twitter.com/_jnf)
+- [Matt Hink](https://twitter.com/mhink1103)
+- [Rachelle Keblitis](https://twitter.com/rkeblitis)
+- [Whitney Levis](https://twitter.com/roseaboveit)
+- [Elise Worthy](https://twitter.com/eliseworthy)
+
 ## Intro to Ruby
 
 ### What is Ruby?
