@@ -3,7 +3,7 @@
 This is the documentation presented in the Spring Workshop. It includes links to all the external resources referenced during the lecture and project portions.
 
 ## How will this work?
-Teams of 4-5 people will work together with a coach on a guided project. The coaches will follow along with the team to ensure everyone is progressing along and stop for discussion points along the way. 
+Teams of 4-5 people will work together with a coach on a guided project. The coaches will follow along with the team to ensure everyone is progressing along and stop for discussion points along the way.
 
 After our time together is coming to a close, we will de-brief what we have learned as well as provide additional recommendations and resources to assist you in taking your projects and learning to the next level.
 
@@ -69,7 +69,7 @@ Purpose: Create a job board application using guided debugging techniques - play
 - [Matt Hink - What To Do When You Don't Know What To Do](mhink-what-to-do-when-you-dont-know-what-to-do.key)
 - [Katie Bosch - ](#)
 - [Rachelle Keblitis - ](#)
-- [Elise Worthy - Seattle Rocks!](#)
+- [Elise Worthy - Seattle Rocks!](https://drive.google.com/file/d/0Byx-8t0NZYsZVzNZUEZCcE9oU0U/view?usp=sharing)
 
 
 ### Project
