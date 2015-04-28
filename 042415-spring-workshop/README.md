@@ -68,7 +68,7 @@ Purpose: Create a job board application using guided debugging techniques - play
 - [Whitney Levis - Imposter Syndrome](https://docs.google.com/presentation/d/17V4qtwcSKhewImw57mjyXNXy2TCwAybntecYDtGoU9w/edit#slide=id.p)
 - [Matt Hink - What To Do When You Don't Know What To Do](mhink-what-to-do-when-you-dont-know-what-to-do.key)
 - [Katie Bosch - ](#)
-- [Rachelle Keblitis - ](#)
+- [Rachelle Keblitis - Free Online Resources](https://gist.github.com/rkeblitis/40cd1458c4a950744e80)
 - [Elise Worthy - Seattle Rocks!](https://drive.google.com/file/d/0Byx-8t0NZYsZVzNZUEZCcE9oU0U/view?usp=sharing)
 
 
