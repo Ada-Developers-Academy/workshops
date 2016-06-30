@@ -11,6 +11,7 @@ After our time together is coming to a close, we will de-brief what we have lear
 - [Kari Bancroft](http://twitter.com/karianneban)
 - [Loraine Kanervisto](http://twitter.com/lorainekv)
 - [Amy Schlesener](http://twitter.com/AmySchlesener)
+- [Erin Moon](http://twitter.com/erinmoony)
 - [Eric Petersen](http://twitter.com/nepeter)
 - [Robin]
 
