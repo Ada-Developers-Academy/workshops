@@ -13,7 +13,7 @@ After our time together is coming to a close, we will de-brief what we have lear
 - [Amy Schlesener](http://twitter.com/AmySchlesener)
 - [Erin Moon](http://twitter.com/erinmoony)
 - [Eric Petersen](http://twitter.com/nepeter)
-- [Robin]
+- [Robin Clowers](http://twitter.com/RobinClowers)
 
 ## Intro to Ruby
 
